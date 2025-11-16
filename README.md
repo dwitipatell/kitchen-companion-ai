@@ -10,5 +10,4 @@ A simple agent-based assistant that suggests recipes from given ingredients.
 - `main.py` : CLI runner
 - `agents.py` : IngredientAgent and RecipeAgent
 
-## Live demo
-(You can add a link here later)
+
